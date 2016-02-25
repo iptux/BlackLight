@@ -42,6 +42,7 @@ public class WeiboUrlUtility
 		"weibo.com",
 		"www.weibo.com",
 		"weibo.cn",
+		"m.weibo.cn",
 		"www.weibo.cn"
 	);
 
